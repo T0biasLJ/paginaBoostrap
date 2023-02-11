@@ -1,0 +1,45 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+
+}
+
+/* INICIO DEL DISEÑO DEL HEADER */
+header{
+    background: #565656;
+}
+
+header img{
+    min-height: 80px;
+}
+
+header span{
+    color: #fff;
+}
+
+header hr{
+    border: none;
+    height: 2px;
+    background: #fff;
+    margin: auto;
+    width: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+@media only screen and (max-width: 770px)  {
+    header img{
+        display: none;
+    }
+}
