@@ -6,9 +6,12 @@
 
 }
 
+
+
 /* INICIO DEL DISEÑO DEL HEADER */
 header{
-    background: #565656;
+    background: #4d4d4d;
+    min-width: 100%;
 }
 
 header img{
@@ -23,8 +26,7 @@ header hr{
     border: none;
     height: 2px;
     background: #fff;
-    margin: auto;
-    width: 400px;
+
 }
 
 
